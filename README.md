@@ -23,7 +23,7 @@ On instantiation of the User class a client socket is created and the nickname p
 
 ***constants***
 Store variables used as constants:
--`MAGIC`: the message sent by the server to the client requesting a nickname
+- `MAGIC`: the message sent by the server to the client requesting a nickname
 - `ENCODING`: the encoding method used to encode and decode messages
 - `HOST_NAME`: server host name
 - `PORT`: server port
